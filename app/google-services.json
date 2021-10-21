@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266802748087",
+    "project_id": "antiwaste-4f882",
+    "storage_bucket": "antiwaste-4f882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266802748087:android:898068c1855985e405cb32",
+        "android_client_info": {
+          "package_name": "com.example.antiwaste1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266802748087-4b35989gv1u9q8maeirneluik9evugvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antiwaste1_0",
+            "certificate_hash": "c399bd445957196410628b071d166c5e4b036b1e"
+          }
+        },
+        {
+          "client_id": "266802748087-fgfq4usjgopmv80l5k2tjn227ek7v1kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMiW0jjggUbt6p4bB88UAT02VpnsXZYKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266802748087-fgfq4usjgopmv80l5k2tjn227ek7v1kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
