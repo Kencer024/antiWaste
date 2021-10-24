@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "266802748087-2e63368sm380pm8lnf3ijb24euuit52e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antiwaste1_0",
+            "certificate_hash": "1821207e41a2d7954a88157241bd372f4bd5fbaa"
+          }
+        },
+        {
           "client_id": "266802748087-4b35989gv1u9q8maeirneluik9evugvq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -28,7 +36,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBMiW0jjggUbt6p4bB88UAT02VpnsXZYKs"
+          "current_key": "AIzaSyDSNI5to3S-2WPKEpOX-GyMOBWjkLClNsk"
         }
       ],
       "services": {
