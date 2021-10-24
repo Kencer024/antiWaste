@@ -12,9 +12,23 @@
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste1_0/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste1_0/app/src/main/res/layout/fragment_notifications.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste1_0/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2851851851851852" />
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout-v23/activity_login.xml" value="0.16236068895643363" />
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/activity_login.xml" value="0.1636271529888551" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/activity_main.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/activity_map.xml" value="0.16134751773049646" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/activity_map2.xml" value="0.16084093211752787" />
         <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/activity_register.xml" value="0.16236068895643363" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/app_bar_map.xml" value="0.16134751773049646" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/content_map.xml" value="0.16134751773049646" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/content_map2.xml" value="0.16084093211752787" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/fragment_dashboard.xml" value="0.16084093211752787" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/fragment_gallery.xml" value="0.16134751773049646" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/fragment_home.xml" value="0.16084093211752787" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/fragment_maps.xml" value="0.33" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/fragment_slideshow.xml" value="0.16134751773049646" />
+        <entry key="..\:/Users/kenne/AndroidStudioProjects/antiWaste2/app/src/main/res/layout/nav_header_map.xml" value="0.16134751773049646" />
       </map>
     </option>
   </component>

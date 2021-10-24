@@ -8,7 +8,6 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.antiwaste1_0.R
 import com.example.antiwaste1_0.databinding.FragmentDashboardBinding
 
 class DashboardFragment : Fragment() {
@@ -42,4 +41,5 @@ class DashboardFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+
 }
