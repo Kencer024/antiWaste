@@ -6,7 +6,7 @@ CE2006 app
 
 
 Resources
-Raw resource file
+
 - https://www.geeksforgeeks.org/resource-raw-folder-in-android-studio/\ Raw resource file
 Adding KML to android studio
 - https://developers.google.com/maps/documentation/android-sdk/utility/kml#maps_android_utils_kml_add_file-kotlin Adding KML to android studio
