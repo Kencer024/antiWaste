@@ -8,6 +8,7 @@ import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
+import com.google.maps.android.data.kml.KmlLayer
 
 class MapActivity : AppCompatActivity(), OnMapReadyCallback {
 
@@ -19,11 +20,25 @@ class MapActivity : AppCompatActivity(), OnMapReadyCallback {
 
         val mapFragment = supportFragmentManager.findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
+
+
+
+
+
+
     }
 
 
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
+
+
+        val layer = KmlLayer(
+            mMap,
+            R.raw.raw_map,
+            this@MapActivity)
+        layer.addLayerToMap()
+
 
         // Add marker in Sydney and move camera
         val sydney = LatLng(-34.0, 151.0)

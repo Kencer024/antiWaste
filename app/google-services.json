@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:266802748087:android:898068c1855985e405cb32",
+        "mobilesdk_app_id": "1:266802748087:android:43581287467d5a2a05cb32",
         "android_client_info": {
           "package_name": "com.example.antiwaste1_0"
         }
@@ -19,14 +19,6 @@
           "android_info": {
             "package_name": "com.example.antiwaste1_0",
             "certificate_hash": "1821207e41a2d7954a88157241bd372f4bd5fbaa"
-          }
-        },
-        {
-          "client_id": "266802748087-4b35989gv1u9q8maeirneluik9evugvq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.antiwaste1_0",
-            "certificate_hash": "c399bd445957196410628b071d166c5e4b036b1e"
           }
         },
         {
